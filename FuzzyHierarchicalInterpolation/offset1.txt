@@ -1,0 +1,2 @@
+slice consequenceoffset averageantecedentoffset excutedtime effective
+0 2.582777689523556E-6 0.5395426005125046 125.749676285 

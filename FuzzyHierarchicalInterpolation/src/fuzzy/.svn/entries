@@ -1,0 +1,42 @@
+10
+
+dir
+0
+https://academic-work-2011.googlecode.com/svn/trunk/programs/main/src/main/java/fuzzy
+https://academic-work-2011.googlecode.com/svn
+add
+
+
+
+
+
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+665c5a16-bd79-c4fa-bc89-41407811ad1d
+
+FuzzyNumber.java
+file
+
+
+
+add
+
+Line.java
+file
+
+
+
+add
+
